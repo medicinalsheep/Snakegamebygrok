@@ -1,2 +1,6 @@
 # Snakegamebygrok
-A game made by grok using a tool that was made by grok. Self inprovement loop. Source code found at https://x.com/i/grok/share/VyBzCB1W7WtWzEnP2ecc4ktxt
+A game made by grok using a tool that was made by grok. Self inprovement loop. How it was made and complete source code found at https://x.com/i/grok/share/VyBzCB1W7WtWzEnP2ecc4ktxt
+
+Play at https://medicinalsheep.github.io/snakegameby/
+
+make your own game using the same tool at https://medicinalsheep.github.io/grokdevprompt/
